@@ -1,10 +1,15 @@
 <div>
 
   <a href="https://github.com/joaogriquena">
-
-  
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&langs_count=6&theme=radical"/>
+        
+   <a href="https://github.com/anuraghazra/github-readme-stats">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=dark"/>
+   </a>
+    
+   <a href="https://github.com/anuraghazra/convoychat">
+    <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=dark"/>
+   </a>
+     
 </div>
   	
 
