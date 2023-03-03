@@ -7,7 +7,7 @@
    </a>
     
    <a href="https://github.com/anuraghazra/convoychat">
-    <img height="160em" width:"300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=radical"/>
+    <img height="160em" width="300em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=radical"/>
    </a>
      
 </div>
