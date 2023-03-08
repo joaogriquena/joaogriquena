@@ -33,7 +33,7 @@
 </a>
 
 <a href="https://github.com/joaogriquena">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=dark&line_height=27" alt="**Joao Guilherme** github stats"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=dark&line_height=25" alt="**Joao Guilherme** github stats"/>
 </a>
 
 <br/>
