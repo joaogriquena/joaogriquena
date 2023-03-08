@@ -1,5 +1,4 @@
 <div>
-
   <a href="https://github.com/joaogriquena">
         
    <a href="https://github.com/anuraghazra/github-readme-stats">
@@ -8,10 +7,9 @@
     
    <a href="https://github.com/anuraghazra/convoychat">
     <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=radical"/>
-   </a>
-     
-</div>  	
-
+   </a>    
+</div> 
+  
 <div style="display: inline_block"><br>
   <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
   
@@ -21,12 +19,16 @@
   
   <img align="center" alt="ReactJS" src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   
-  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">
-
-          
+  <img align="center" alt="Linux" src="https://img.shields.io/badge/Linux-E34F26?style=for-the-badge&logo=linux&logoColor=black">   
 </div>
   
   ##
+  
+  <div>
+    <a href="https://www.linkedin.com/in/joao-riquena/" target="_blank">
+      <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
+    </a> 
+  <div/>
  
  <br>
   
