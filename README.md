@@ -25,7 +25,7 @@
   ##
   
   <div>
-    <a href="https://www.linkedin.com/in/joao-riquena/" target="_blank">
+    <a href="https://www.linkedin.com/in/joao-riquena/" relrel="noopener">
       <img align="center" alt="Linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white">
     </a> 
   <div/>
