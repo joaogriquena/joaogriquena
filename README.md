@@ -28,9 +28,9 @@
 
 <br/>
 
-<a href="https://github.com/joaogriquena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&theme=dark&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=joaogriquena&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 
 <br/>
 
