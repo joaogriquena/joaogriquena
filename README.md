@@ -29,7 +29,7 @@
 <br/>
 
 <a href="https://github.com/joaogriquena">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&theme=dracula&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&theme=dark&show_icons=true" />
 </a>
 
 <br/>
