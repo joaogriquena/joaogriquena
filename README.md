@@ -28,9 +28,13 @@
 
 <br/>
 
-[![card](https://github-readme-stats.vercel.app/api?username=joaogriquena&theme=dark&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/joaogriquena">
+  <img height="280em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&theme=dark&hide_langs_below=1" />
+</a>
 
-[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&hide=html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/joaogriquena">
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=dark&line_height=27" alt="**Joao Guilherme** github stats"/>
+</a>
 
 <br/>
 
