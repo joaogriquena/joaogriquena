@@ -30,13 +30,12 @@
 
 <br/>
 
-<a href="https://github.com/joaogriquena">
-  <img height="280em" align="center"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&theme=dark&hide_langs_below=1" />
-</a>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=tokyonight&langs_count=10)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=tokyonight)
 
-<a href="https://github.com/joaogriquena">
- <img align="center" src="https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=dark&line_height=25" alt="**Joao Guilherme** github stats"/>
-</a>
+<!--
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaogriquena&repo=Portifolio_API_GitHub)
+-->
 
 <br/>
 
