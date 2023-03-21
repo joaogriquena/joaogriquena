@@ -33,9 +33,6 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=joaogriquena&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=joaogriquena&layout=compact&theme=tokyonight&langs_count=10)
-<!--
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=joaogriquena&repo=Portifolio_API_GitHub)
--->
 
 <br/>
 
