@@ -3,8 +3,8 @@
 <h3> :woman: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Segurança da Informação** na <a href="https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Seguran%C3%A7a-da-Informacao-Tecnologo.aspx?tipo=7ba9bba6-a28e-40cd-952c-e55604642276&campi=7c032ce9-43f6-4571-b72e-674be76a5b62&turno=5" target="_blank">Puc Minas</a>.
-- 🌱 &nbsp; Aprendendo mais sobre **Amazon Web Services**.
+- 🎓 &nbsp; Graduação em **Segurança da Informação** na <a href="https://www.pucminas.br/PucVirtual/Graduacao/Paginas/Seguran%C3%A7a-da-Informacao-Tecnologo.aspx?tipo=7ba9bba6-a28e-40cd-952c-e55604642276&campi=7c032ce9-43f6-4571-b72e-674be76a5b62&turno=5" target="_blank">Puc Minas</a>.
+- 🌱 &nbsp; Aprendendo mais sobre **Linux Admin**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
 
